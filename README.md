@@ -1,50 +1,24 @@
-# Welcome to your Expo app 👋
+# Hello World App with React Native & Expo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a basic mobile app built using **React Native** and **Expo** with the new Expo Router structure. The purpose of this app is to serve as an initial step in learning how to build mobile applications using modern JavaScript-based tools.
 
-## Get started
+## 📱 Features
 
-1. Install dependencies
+- Built using React Native and Expo
+- Displays a "Hello World from React Native!" message
+- Uses functional components and React Native styling
+- Compatible with both Android and iOS
+- Can be run in a real device (with Expo Go), emulator, or browser
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🚀 Getting Started
 
-   ```bash
-   npx expo start
-   ```
+### Prerequisites
 
-In the output, you'll find options to open the app in a
+Make sure you have the following installed:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Node.js](https://nodejs.org/) (LTS version)
+- Expo CLI:  
+  ```bash
+  npm install -g expo-cli
